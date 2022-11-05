@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="../css/style.css">
+    <title>Pasteleria</title>
+</head>
+
+<body>
+    <header class="header">
+        <img src="../img/logo.png" alt="imagen" class="header__img">
+        <h1 class="header__h1"> Pasteleria LEON <br>
+            <span class="header__span">"El rey de los pasteles"</span>
+        </h1>
+    </header>
+    <nav class="nav">
+        <a href="#" class="nav__a">Clasicos</a>
+        <a href="especiales.html" class="nav__a">Especiales</a>
+        <a href="bodas.html" class="nav__a">Bodas</a>
+    </nav>
+    <section class="section">
+        <div class="div div--posicion">
+            <img src="../img/pastel-clasico.jpg" alt="Pastel-clasico" class="div__img">
+            <p class="div__p">Precio $299.00MXN</p>
+            <p class="div__p">Pastel para 15 personas</p>
+        </div>
+        <div class="div div--tamaño1">
+            <form action="" class="div__form">
+                <h2 class="div__h2">Sabor</h2>
+                <input type="radio" class="input-radio" name="sabor" id="vainilla">
+                <label for="vainilla">Vainilla</label>
+                <input type="radio" class="input-radio" name="sabor" id="chocolate">
+                <label for="chocolate">Chocolate</label><br>
+                <input type="radio" class="input-radio" name="sabor" id="fresa">
+                <label for="fresa">Fresa</label>
+                <input type="radio" class="input-radio" name="sabor" id="limon">
+                <label for="limon">Limon</label><br>
+                <input type="radio" class="input-radio" name="sabor" id="tresleches">
+                <label for="tresleches">Tres leches</label>
+                <h2 class="div__h2">Relleno</h2>
+                <input type="radio" class="input-radio" name="relleno" id="mermelada">
+                <label for="mermelada">Mermelada</label><br>
+                <input type="radio" class="input-radio" name="relleno" id="ganache">
+                <label for="ganache">Ganache</label><br>
+                <input type="radio" class="input-radio" name="relleno" id="crema">
+                <label for="crema">Crema para batir</label>
+                <h2 class="div__h2">Cubierta</h2>
+                <input type="radio" class="input-radio" name="cubierta" id="caramelo">
+                <label for="caramelo">Caramelo</label>
+                <input type="radio" class="input-radio" name="cubierta" id="frutas">
+                <label for="frutas">Frutas</label><br>
+                <input type="radio" class="input-radio" name="cubierta" id="fondant">
+                <label for="fondant">Fondant</label>
+                <input type="radio" class="input-radio" name="cubierta" id="chantilly">
+                <label for="chantilly">Chantilly</label><br>
+                <input type="radio" class="input-radio" name="cubierta" id="merengue">
+                <label for="merengue">Merengue</label>
+            </form>
+        </div>
+        <div class="div div--tamaño2">
+            <form action="" method="post" class="div__form">
+                <h2 class="div__h2">Datos</h2>
+                <label for="">Nombre: </label>
+                <input type="text" class="input" name="nombre" id="nombre"><br>
+                <label for="">Telefono: </label>
+                <input type="tel" class="input" name="telefono" id="telefono"><br>
+                <label for="">Correo: </label>
+                <input type="email" class="input" name="correo" id="correo"><br>
+                <h2 class="div__h2">Datos de envio</h2>
+                <label for="estado">Estado: </label>
+                <select class="input" name="estado" id="estado">
+                    <option value="CDMX">CDMX</option>
+                    <option value="EdoMex">Edo. de Mex.</option>
+                    <option value="monterrey">Monterrey</option>
+                    <option value="guadalajara">Guadalajara</option>
+                </select><br>
+                <label for="municipio">Municipio/Alcaldia: </label>
+                <input type="text" class="input" name="municipio" id="municipio"><br>
+                <label for="colonia">Colonia: </label>
+                <input type="text" class="input" name="colonia" id="colonia"><br>
+                <label for="calle">Calle: </label>
+                <input type="text" class="input" name="calle" id="calle"><br>
+                <label for="num1">Numero. ext.: </label>
+                <input type="text" class="input" name="num1" id="num1"><br>
+                <label for="num2">Numero int.: </label>
+                <input type="text" class="input" name="num2" id="num2"><br>
+                <input type="submit" class="input-boton" disabled>
+            </form>
+        </div>
+    </section>
+    <footer class="footer">
+        <div class="footer__div footer__div--tamaño1 footer__div--direccion">
+            <p class="footer__p ">Siguenos</p>
+            <a href="#" class="footer__a"><img src="../img/logo_facebook.png" alt="logo_facebook" class="footer__logo"></a>
+            <a href="#" class="footer__a"><img src="../img/logo_instagram.png" alt="logo_instagram" class="footer__logo"></a>
+            <a href="#" class="footer__a"><img src="../img/logo_twitter.png" alt="logo_twitter" class="footer__logo"></a>
+        </div>
+        <div class="footer__div">
+            <p class="footer__p footer__p--tamaño">Sucursal 
+                <br> Eje Central Lázaro Cárdenas 12, 
+                <br> Centro Histórico de la Cdad. de México, 
+                <br> Cuauhtémoc, 06000 Ciudad de México
+                <br> Tel: 55-12345678
+            </p>
+        </div>
+        <div class="footer__div footer__div--tamaño2">
+            <a href="#" class="footer__a">Aviso de privacidad  </a>
+            <a href="#" class="footer__a">Terminos y condiciones</a>
+        </div>
+    </footer>
+</body>
+
+</html>
