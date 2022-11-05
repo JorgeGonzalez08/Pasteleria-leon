@@ -1,6 +1,9 @@
 # Practica de HTML
-_Caso: Pasteleria_
+
+Caso: Pasteleria
+
 ##Desarrollado en 🛠️: 
 -Visual Studio Code
+
 Requerimientos
 
