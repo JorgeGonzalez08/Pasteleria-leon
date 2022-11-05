@@ -28,30 +28,34 @@ Cliente
 -	El cliente de la pastelería tendrá la posibilidad de combinar adornos dependiendo de sus preferencias.
 -	El cliente de la pastelería necesita poner en un formulario su pedido.
 -	El formulario debe de contener los datos de contacto del cliente que son Nombre, Teléfono, Correo Electrónico, Descripción general del pastel y la selección de sabores y adornos.
--	
+
 Pastelero
+
 -	El pastelero necesita tener la información de la cantidad de sabores que le quedan para hacer los pasteles.
 -	El pastelero necesita tener la información de la cantidad de adornos que le quedan para hacer los pasteles.
 -	El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.
 -	La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
 
-#### 1. Logo
+#### 1. Logo 🎨.
 
 ![Image text](https://github.com/JorgeGonzalez08/Pasteleria-leon/blob/main/Practica-Pasteleria/Cliente/img/logo.png)
 
-#### 2. Maquetación de páginas de cliente de la pastelería.
+#### 2. Maquetación de páginas de cliente de la pastelería ✍.
 
 [Codigo](https://github.com/JorgeGonzalez08/Pasteleria-leon/blob/main/Practica-Pasteleria/Cliente/html/index.html)
 
-#### Direccion de la pagina
+#### 3. Maquetación de páginas del pastelero ✍.
+
+[Codigo](https://github.com/JorgeGonzalez08/Pasteleria-leon/blob/main/Practica-Pasteleria/Administrador/html/index.html)
+
+#### Bonus de estilos 🌟.
+
+Estilos de la pagina cliente [Codigo](https://github.com/JorgeGonzalez08/Pasteleria-leon/blob/main/Practica-Pasteleria/Cliente/css/style.css)
+
+Estilos de la pagina Pastelero [Codigo](https://github.com/JorgeGonzalez08/Pasteleria-leon/blob/main/Practica-Pasteleria/Administrador/css/style.css)
+
+#### Despliegue de paginas 🚀.
 
 [Cliente](https://pasteleria-leon.w3spaces.com)
 
-#### 3. Maquetación de páginas del pastelero.
-
-[Codigo]()
-
-#### Direccion de la pagina
-
-[Pastelero]()
-
+[Pastelero](https://jorgegonzalez08.github.io/Pasteleria-leon/Practica-Pasteleria/Administrador/html/index.html)
