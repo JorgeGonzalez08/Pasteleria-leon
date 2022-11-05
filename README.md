@@ -8,9 +8,9 @@ Caso: Pasteleria.
 
 ### Objetivos de la practica ✔:
 
-- Crear marca de la pastelería como un logo y los mensajes que daremos desde la marca.
-- Maquetación de páginas de cliente de la pastelería.
-- Maquetación de páginas del pastelero.
+- 1. Crear marca de la pastelería como un logo y los mensajes que daremos desde la marca.
+- 2. Maquetación de páginas de cliente de la pastelería.
+- 3. Maquetación de páginas del pastelero.
 
 Bonus: En caso de que te quede corto el ejercicio siguele con esto!
 
@@ -35,11 +35,23 @@ Pastelero
 -	El pastelero necesita una tabla donde aparezcan los pedidos que se han realizado con los datos del formulario.
 -	La página debe tener información de la pastelería que es Dirección, Teléfono y horarios de atención.
 
-#### Logo
+#### 1. Logo
 
 ![Image text](https://github.com/JorgeGonzalez08/Pasteleria-leon/blob/main/Practica-Pasteleria/Cliente/img/logo.png)
 
-### Direccion de la pagina
+#### 2. Maquetación de páginas de cliente de la pastelería.
 
-[Pasteleria Leon](https://pasteleria-leon.w3spaces.com)
+[Codigo](https://github.com/JorgeGonzalez08/Pasteleria-leon/blob/main/Practica-Pasteleria/Cliente/html/index.html)
+
+#### Direccion de la pagina
+
+[Cliente](https://pasteleria-leon.w3spaces.com)
+
+#### 3. Maquetación de páginas del pastelero.
+
+[Codigo]()
+
+#### Direccion de la pagina
+
+[Pastelero]()
 
